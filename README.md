@@ -1,1 +1,3 @@
-# makefile
+# makefile for C++ class
+
+
